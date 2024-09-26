@@ -12,11 +12,15 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 Create the metrics according to the metric list.
 Create a dashboard according to the mock-up provided by stakeholders.
 Create relevant insights that are not provided in the metric list/mock-up dashboard.
-Provided Mock-up Dashboard
-mock up dashboard_atliq grands
 
-Data Model
-Data Modeling_page-0001
+**Provided Mock-up Dashboard**
+
+![mock up dashboard_atliq grands](https://github.com/user-attachments/assets/f84e7eba-0de0-41ee-9932-80fd884a1dbd)
+
+
+
+**Data Model**
+
 
 Dashboard
 Hospatility Domain_page-0001
