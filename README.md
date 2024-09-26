@@ -30,17 +30,18 @@ Create relevant insights that are not provided in the metric list/mock-up dashbo
 ![Hospatility Domain_page-0002](https://github.com/user-attachments/assets/66385b34-f0dd-4bee-9db7-d5121851ec7b)
 
 
-Some Important insights from the Dashboard
-Mumbai generates the highest revenue (669 M) followed by Bangalore, Hyderabad and Delhi
+**Some Important insights from the Dashboard**
 
-AtliQ Exotica performs better compared to all 7 type of properties with 320 Million revenue, rating 3.62, occupancy percentage 57 and cancellation rate as 24.4%.
+1.Mumbai generates the highest revenue (669 M) followed by Bangalore, Hyderabad and Delhi
 
-AtliQ Bay has the highest occupancy of 66%
+2.AtliQ Exotica performs better compared to all 7 type of properties with 320 Million revenue, rating 3.62, occupancy percentage 57 and cancellation rate as 24.4%.
 
-Week 24 recorded the highest revenue among all, which is 139.6 Million
+3.AtliQ Bay has the highest occupancy of 66%
 
-Delhi tops both in occupancy and rating followed by Hyderabad, Mumbai, Bangalore
+4.Week 24 recorded the highest revenue among all, which is 139.6 Million
 
-AtliQ lost around 298 Million in cancellation
+5.Delhi tops both in occupancy and rating followed by Hyderabad, Mumbai, Bangalore
 
-Elite type rooms has the most booking and as well higher cancellation rate.
+6.AtliQ lost around 298 Million in cancellation
+
+7.Elite type rooms has the most booking and as well higher cancellation rate.
