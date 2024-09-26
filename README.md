@@ -18,11 +18,9 @@ Create relevant insights that are not provided in the metric list/mock-up dashbo
 ![mock up dashboard_atliq grands](https://github.com/user-attachments/assets/f84e7eba-0de0-41ee-9932-80fd884a1dbd)
 
 **Data Model**
-
 ![Data Modeling_page-0001](https://github.com/Sagarparkhe/AtliQ-Hospitality-Analysis---PowerBI/assets/171353864/e85fc714-5a8e-431f-b77f-0b26e7dcffe0)
 
 **Dashboard**
-
 ![Hospatility Domain_page-0001](https://github.com/user-attachments/assets/b083e3be-ffb8-4c63-9135-dcffe0a2987f)
 
 
