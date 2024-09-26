@@ -22,10 +22,13 @@ Create relevant insights that are not provided in the metric list/mock-up dashbo
 **Data Model**
 
 
-Dashboard
-Hospatility Domain_page-0001
+**Dashboard**
 
-Hospatility Domain_page-0002
+![Hospatility Domain_page-0001](https://github.com/user-attachments/assets/b083e3be-ffb8-4c63-9135-dcffe0a2987f)
+
+
+![Hospatility Domain_page-0002](https://github.com/user-attachments/assets/66385b34-f0dd-4bee-9db7-d5121851ec7b)
+
 
 Some Important insights from the Dashboard
 Mumbai generates the highest revenue (669 M) followed by Bangalore, Hyderabad and Delhi
